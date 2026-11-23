@@ -2,6 +2,8 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [简体中文](README.zh-CN.md)
 
+[项目入口](https://v6rfy78ggr-rgb.github.io/v6rfy78ggr-rgb/zh-CN.html) · [一分钟试用](TRY_IT.md) · [版本下载](https://github.com/v6rfy78ggr-rgb/pillar2-navigator/releases) · [打开演示](https://v6rfy78ggr-rgb.github.io/pillar2-navigator/)
+
 在浏览器本地运行的德国 Pillar Two 义务初筛原型，帮助整理判断依据和仍需专业复核的事实。中文、德语和英语界面共用同一规则引擎。
 
 ## 如何试用

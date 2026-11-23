@@ -2,6 +2,8 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [简体中文](README.zh-CN.md)
 
+[Project hub](https://v6rfy78ggr-rgb.github.io/v6rfy78ggr-rgb/) · [One-minute first look](TRY_IT.md) · [Version downloads](https://github.com/v6rfy78ggr-rgb/pillar2-navigator/releases) · [Open demo](https://v6rfy78ggr-rgb.github.io/pillar2-navigator/)
+
 A browser-local prototype for screening German Pillar Two obligations and documenting the facts that still need professional review. English, German and Chinese interfaces share the same rule engine.
 
 ## Try it

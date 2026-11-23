@@ -2,6 +2,8 @@
 
 [English](README.md) · [Deutsch](README.de.md) · [简体中文](README.zh-CN.md)
 
+[Projektübersicht](https://v6rfy78ggr-rgb.github.io/v6rfy78ggr-rgb/de.html) · [Kurzer Einstieg](TRY_IT.md) · [Versionen](https://github.com/v6rfy78ggr-rgb/pillar2-navigator/releases) · [Demo öffnen](https://v6rfy78ggr-rgb.github.io/pillar2-navigator/)
+
 Ein lokal im Browser laufender Prototyp zur Vorprüfung deutscher Pillar-Two-Pflichten und zur Dokumentation offener Sachverhaltsfragen. Die deutsche, englische und chinesische Oberfläche verwendet dieselbe Regelbasis.
 
 ## Ausprobieren
